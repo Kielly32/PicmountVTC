@@ -25,7 +25,7 @@ General Tips/Warnings:
 Dontations
 - Payment is not required, nor will it ever be required.
   If you feel like making a donation, It will always be greatly appreciated. 
-- If you make a donation equal to or greater than $1CAD you can follow this form () and include the necessary information to request a modified version of a page, or aspect. Nothing is guaranteed but I will try my best to get to everyone at a timely pace and fullfill your requests.
+- If you make a donation equal to or greater than $1CAD you can follow this form (https://tinyurl.com/ycqalepb) and include the necessary information to request a modified version of a page, or aspect. Nothing is guaranteed but I will try my best to get to everyone at a timely pace and fullfill your requests.
 
 Donation Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J4VCRK5JGTD42
 Keep any transaction details and save them.
