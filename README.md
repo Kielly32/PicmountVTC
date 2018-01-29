@@ -8,14 +8,15 @@ Email: Kielly@picmount.ca
 Setup:
 1) Create a new database and import db.sql
 2) Delete db.sql from root
-3) Upload contents inside website root folder or subfolder
-4) Enter setup.php
+3) Edit 'connection.php' with your database connection information
+4) Upload contents inside website root folder or subfolder
+5) Enter setup.php
     (ex: http://website.ca/cpanel/setup.php)
-5) Enter the following information needed and finish setup.
+6) Enter the following information needed and finish setup.
 
-6) DELETE SETUP.PHP FROM ROOT FOLDER -- Failure to do so will allow your CMS to be overwritten by the general public.
-7) Login, and finish profile setup.
-8) Complete. Enjoy your new VTC.
+7) DELETE SETUP.PHP FROM ROOT FOLDER -- Failure to do so will allow your CMS to be overwritten by the general public.
+8) Login, and finish profile setup.
+9) Complete. Enjoy your new VTC.
 
 General Tips/Warnings:
 - Do not remove current-version.txt - This file helps determine if any new updates are available.
